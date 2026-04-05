@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הספר עד שלא נשאר כלום זמין לרכישת ספר מהירה ונוחה ישירות באתר. אל תפספסו את החוויה הספרותית המרגשת ביותר — הזמינו עותק עוד היום!
+
+### תוך הספר
+https://example.com/inside-the-book
+גלו מה מסתתר בין דפי הספר עד שלא נשאר כלום — קטעים נבחרים, תקציר מרתק ותובנות שיגרמו לכם לרצות לרכוש את הספר מיד ולצלול לתוכו
+
+### אודות המחבר
+https://example.com/author
+מי הוא המחבר שכתב את עד שלא נשאר כלום? גלו את הסיפור האישי, ההשראה והחזון שעומדים מאחורי הספר, ותבינו מדוע קניית ספרים אונליין בישראל מתחילה כאן
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על רכישת ספרים או רוצים לדעת עוד על עד שלא נשאר כלום? צרו קשר עכשיו ונשמח לעזור לכם להשלים את ההזמנה במהירות ובקלות מרבית
+
+### Products
+https://example.com/products
+המוצרים שלנו - עד שלא נשאר כלום
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - עד שלא נשאר כלום
+
+### Category
+https://example.com/category/:slug
+מוצרים - עד שלא נשאר כלום
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
